@@ -1,0 +1,11 @@
+/Users/samuel/Desktop/YRGO-lektioner/Projekt/C-Game/hangman/hangman/bin/Release/netcoreapp2.0/hangman.deps.json
+/Users/samuel/Desktop/YRGO-lektioner/Projekt/C-Game/hangman/hangman/bin/Release/netcoreapp2.0/hangman.runtimeconfig.json
+/Users/samuel/Desktop/YRGO-lektioner/Projekt/C-Game/hangman/hangman/bin/Release/netcoreapp2.0/hangman.runtimeconfig.dev.json
+/Users/samuel/Desktop/YRGO-lektioner/Projekt/C-Game/hangman/hangman/bin/Release/netcoreapp2.0/hangman.dll
+/Users/samuel/Desktop/YRGO-lektioner/Projekt/C-Game/hangman/hangman/bin/Release/netcoreapp2.0/hangman.pdb
+/Users/samuel/Desktop/YRGO-lektioner/Projekt/C-Game/hangman/hangman/obj/Release/netcoreapp2.0/hangman.csprojAssemblyReference.cache
+/Users/samuel/Desktop/YRGO-lektioner/Projekt/C-Game/hangman/hangman/obj/Release/netcoreapp2.0/hangman.csproj.CoreCompileInputs.cache
+/Users/samuel/Desktop/YRGO-lektioner/Projekt/C-Game/hangman/hangman/obj/Release/netcoreapp2.0/hangman.AssemblyInfoInputs.cache
+/Users/samuel/Desktop/YRGO-lektioner/Projekt/C-Game/hangman/hangman/obj/Release/netcoreapp2.0/hangman.AssemblyInfo.cs
+/Users/samuel/Desktop/YRGO-lektioner/Projekt/C-Game/hangman/hangman/obj/Release/netcoreapp2.0/hangman.dll
+/Users/samuel/Desktop/YRGO-lektioner/Projekt/C-Game/hangman/hangman/obj/Release/netcoreapp2.0/hangman.pdb
