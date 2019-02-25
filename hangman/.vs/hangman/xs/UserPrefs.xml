@@ -3,8 +3,9 @@
     <Files>
       <File FileName="hangman/Program.cs" Line="9" Column="51" />
       <File FileName="hangman/Result.cs" Line="1" Column="1" />
-      <File FileName="hangman/Word.cs" Line="18" Column="48" />
-      <File FileName="hangman/Words.cs" Line="1" Column="1" />
+      <File FileName="hangman/Word.cs" Line="19" Column="9" />
+      <File FileName="hangman/Words.cs" Line="2" Column="1" />
+      <File FileName="hangman/PlayHangman.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.hangman PreferredExecutionTarget="MonoDevelop.Default" />
