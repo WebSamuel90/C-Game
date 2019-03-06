@@ -1,0 +1,4 @@
+/Users/samuel/Desktop/YRGO-lektioner/Projekt/C-Game/hangman/hangman/obj/Debug/netcoreapp2.0/hangman.csprojAssemblyReference.cache
+/Users/samuel/Desktop/YRGO-lektioner/Projekt/C-Game/hangman/hangman/obj/Debug/netcoreapp2.0/hangman.csproj.CoreCompileInputs.cache
+/Users/samuel/Desktop/YRGO-lektioner/Projekt/C-Game/hangman/hangman/obj/Debug/netcoreapp2.0/hangman.AssemblyInfoInputs.cache
+/Users/samuel/Desktop/YRGO-lektioner/Projekt/C-Game/hangman/hangman/obj/Debug/netcoreapp2.0/hangman.AssemblyInfo.cs

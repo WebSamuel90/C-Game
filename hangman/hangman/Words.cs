@@ -8,12 +8,20 @@ namespace hangman
     {
         public Words() 
         {
-            this.Add(new Word() { Content = "TESTING" });
-            this.Add(new Word() { Content = "CapsLock" });
+            //this.Add(new Word() { Content = "TESTING" });
+            //this.Add(new Word() { Content = "CAPSLOCK" });
+            this.Add(new Word() { Content = "REACT" });
+            this.Add(new Word() { Content = "LARAVEL" });
+            this.Add(new Word() { Content = "WORDPRESS" });
+            this.Add(new Word() { Content = "DESIGN" });
+            this.Add(new Word() { Content = "FRONTEND" });
+            this.Add(new Word() { Content = "BACKEND" });
+            this.Add(new Word() { Content = "Programming" });
         }
 
-        public Word Pick()
+        public Word Pick
         {
+            get
             {
                 Random RandomWord = new Random();
                 int index = (int)(RandomWord.NextDouble() * this.Count);

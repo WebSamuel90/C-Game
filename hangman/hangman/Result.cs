@@ -4,10 +4,10 @@ using System.Text;
 
 namespace hangman
 {
-    public enum Result
+    public enum GAMERESULT
     {
-        won,
-        lost,
-        guessedRight
+        WON,
+        LOST,
+        CONTINUE
     }
 }

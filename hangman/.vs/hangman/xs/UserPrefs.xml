@@ -1,11 +1,9 @@
 ﻿<Properties StartupConfiguration="{49A363C8-EED5-4963-9F8F-108533D77E01}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="hangman/Words.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="hangman/PlayHangman.cs">
     <Files>
-      <File FileName="hangman/Program.cs" Line="9" Column="51" />
-      <File FileName="hangman/Result.cs" Line="1" Column="1" />
-      <File FileName="hangman/Word.cs" Line="19" Column="9" />
-      <File FileName="hangman/Words.cs" Line="2" Column="1" />
-      <File FileName="hangman/PlayHangman.cs" Line="1" Column="1" />
+      <File FileName="hangman/Program.cs" Line="20" Column="51" />
+      <File FileName="hangman/PlayHangman.cs" Line="210" Column="71" />
+      <File FileName="hangman/Words.cs" Line="20" Column="10" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.hangman PreferredExecutionTarget="MonoDevelop.Default" />
